@@ -50,9 +50,6 @@ function Listing() {
                     )
                     )}
 
-
-
-
                 </div>
             </div>
 
